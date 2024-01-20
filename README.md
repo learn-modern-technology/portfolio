@@ -1,2 +1,2 @@
-# portfolio-repository
+# portfolio
 This is my portfolio website code
